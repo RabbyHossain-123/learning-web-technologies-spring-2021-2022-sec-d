@@ -1,0 +1,20 @@
+<Mobile_info>
+<Mobile id="11">
+<name>Samsung</name>
+<UNITPRICE> 35000</UNITPRICE>
+<STOCK>50</STOCK>
+<STATUS>1</STATUS>
+</Mobile>
+<Mobile id="20">
+<name>HTC</name>
+<UNITPRICE> 65300</UNITPRICE>
+<STOCK>35</STOCK>
+<STATUS>0</STATUS>
+</Mobile>
+<Mobile id="23">
+<name>Nokia</name>
+<UNITPRICE> 25100</UNITPRICE>
+<STOCK>100</STOCK>
+<STATUS>1</STATUS>
+</Mobile>
+</Mobile_info>
